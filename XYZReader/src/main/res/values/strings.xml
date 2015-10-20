@@ -9,4 +9,6 @@
 
     <string name="up">Up</string>
 
+    <string name="share_text">Shared with XYZ Reader: </string>
+
 </resources>
